@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fcd4c10-acc2-485f-aa9b-cfb163b3feb8" name="Default Changelist" comment="commit7">
+    <list default="true" id="9fcd4c10-acc2-485f-aa9b-cfb163b3feb8" name="Default Changelist" comment="verbose">
       <change beforePath="$PROJECT_DIR$/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595935608284</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="verbose">
+      <created>1595935721310</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595935721310</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,12 +124,13 @@
     <MESSAGE value="commit5" />
     <MESSAGE value="commit6" />
     <MESSAGE value="commit7" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit7" />
+    <MESSAGE value="verbose" />
+    <option name="LAST_COMMIT_MESSAGE" value="verbose" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595935611714">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595935725826">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595935611714" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595935725826" />
   </component>
 </project>

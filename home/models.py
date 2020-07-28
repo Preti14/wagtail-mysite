@@ -11,5 +11,5 @@ class HomePage(Page):
     content_panels = Page.content_panels + [ FieldPanel("banner_title")]
 
     class Meta:
-        verbose_name ="Single home"
+        verbose_name = "Single home"
         verbose_name_plural = "Multiple home page"
