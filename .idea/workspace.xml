@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fcd4c10-acc2-485f-aa9b-cfb163b3feb8" name="Default Changelist" comment="verbose">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9fcd4c10-acc2-485f-aa9b-cfb163b3feb8" name="Default Changelist" comment="verbose 2">
       <change beforePath="$PROJECT_DIR$/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595936052100</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="verbose 2">
+      <created>1595936196291</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1595936196291</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,12 +139,13 @@
     <MESSAGE value="commit6" />
     <MESSAGE value="commit7" />
     <MESSAGE value="verbose" />
-    <option name="LAST_COMMIT_MESSAGE" value="verbose" />
+    <MESSAGE value="verbose 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="verbose 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595936055564">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595936203427">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595936055564" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595936203427" />
   </component>
 </project>
