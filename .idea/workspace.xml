@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fcd4c10-acc2-485f-aa9b-cfb163b3feb8" name="Default Changelist" comment="verbose 2">
+    <list default="true" id="9fcd4c10-acc2-485f-aa9b-cfb163b3feb8" name="Default Changelist" comment="auto 3">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/wagtail-mysite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wagtail-mysite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +123,35 @@
       <option name="project" value="LOCAL" />
       <updated>1595936196291</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="only one home page">
+      <created>1595936355310</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1595936355310</updated>
+    </task>
+    <task id="LOCAL-00012" summary="auto 2">
+      <created>1596059990267</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1596059990267</updated>
+    </task>
+    <task id="LOCAL-00013" summary="auto 2">
+      <created>1596060075546</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1596060075546</updated>
+    </task>
+    <task id="LOCAL-00014" summary="auto 3">
+      <created>1596060866774</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1596060866774</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +164,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit5" />
@@ -140,12 +172,19 @@
     <MESSAGE value="commit7" />
     <MESSAGE value="verbose" />
     <MESSAGE value="verbose 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="verbose 2" />
+    <MESSAGE value="only one home page" />
+    <MESSAGE value="auto 2" />
+    <MESSAGE value="auto 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595936203427">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596060869365">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595936203427" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596060869365" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1595962547654">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1595962547654" />
   </component>
 </project>
