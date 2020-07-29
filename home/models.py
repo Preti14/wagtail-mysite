@@ -13,4 +13,4 @@ class HomePage(Page):
 
     class Meta:
         verbose_name = "Single Home"
-        verbose_name_plural = "Multiple Home page"
+        verbose_name_plural = "Multiple Home"
