@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596070374608</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="only view home page">
+      <created>1596119558219</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1596119558219</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,10 +242,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="only view home page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596070382028">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596120440010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596070382028" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596120440010" />
     <state x="346" y="49" key="search.everywhere.popup" timestamp="1595962547654">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
